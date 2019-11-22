@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TrainingPlatform.API"
+    "\\TrainingPlatform.API",
+    "\\TrainingPlatform.API\\Models"
   ],
-  "SelectedNode": "\\TrainingPlatform.API\\.gitignore",
+  "SelectedNode": "\\TrainingPlatform.API\\Models\\Value.cs",
   "PreviewInSolutionExplorer": false
 }

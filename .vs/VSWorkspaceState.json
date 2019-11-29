@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\TrainingPlatform-SPA\\src",
+    "\\TrainingPlatform-SPA\\src\\app",
+    "\\TrainingPlatform-SPA\\src\\app\\home",
+    "\\TrainingPlatform-SPA\\src\\app\\register",
+    "\\TrainingPlatform-SPA\\src\\app\\_services",
     "\\TrainingPlatform.API",
-    "\\TrainingPlatform.API\\Models"
+    "\\TrainingPlatform.API\\Controllers",
+    "\\TrainingPlatform.API\\Dtos",
+    "\\TrainingPlatform.API\\Properties"
   ],
-  "SelectedNode": "\\TrainingPlatform.API\\Models\\Value.cs",
+  "SelectedNode": "\\TrainingPlatform.API\\Properties\\launchSettings.json",
   "PreviewInSolutionExplorer": false
 }

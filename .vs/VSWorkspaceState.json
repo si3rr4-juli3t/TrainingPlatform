@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TrainingPlatform-SPA",
-    "\\TrainingPlatform-SPA\\src",
     "\\TrainingPlatform-SPA\\src\\app",
-    "\\TrainingPlatform-SPA\\src\\app\\register"
+    "\\TrainingPlatform-SPA\\src\\app\\nav",
+    "\\TrainingPlatform-SPA\\src\\app\\register",
+    "\\TrainingPlatform-SPA\\src\\app\\_guards",
+    "\\TrainingPlatform.API"
   ],
-  "SelectedNode": "\\TrainingPlatform-SPA\\src\\app\\app.module.ts",
+  "SelectedNode": "\\TrainingPlatform.API\\TrainingPlatform.API.csproj",
   "PreviewInSolutionExplorer": false
 }

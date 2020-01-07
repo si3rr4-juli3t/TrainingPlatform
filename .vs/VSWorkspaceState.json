@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\TrainingPlatform-SPA",
+    "\\TrainingPlatform-SPA\\src",
     "\\TrainingPlatform-SPA\\src\\app",
-    "\\TrainingPlatform-SPA\\src\\app\\nav",
-    "\\TrainingPlatform-SPA\\src\\app\\register",
-    "\\TrainingPlatform-SPA\\src\\app\\_guards",
-    "\\TrainingPlatform.API"
+    "\\TrainingPlatform-SPA\\src\\app\\members",
+    "\\TrainingPlatform-SPA\\src\\app\\members\\member-detail",
+    "\\TrainingPlatform-SPA\\src\\app\\_resolvers",
+    "\\TrainingPlatform-SPA\\src\\environments",
+    "\\TrainingPlatform.API",
+    "\\TrainingPlatform.API\\Controllers"
   ],
-  "SelectedNode": "\\TrainingPlatform.API\\TrainingPlatform.API.csproj",
+  "SelectedNode": "\\TrainingPlatform-SPA\\src\\app\\_resolvers\\member-detail.resolver.ts",
   "PreviewInSolutionExplorer": false
 }
